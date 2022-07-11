@@ -1,0 +1,22 @@
+{
+  "name": "bank-operations",
+  "version": "1.0.0",
+  "description": "Banking operations using NodeJs and Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/benjaminhiti/Bank-operations.git"
+  },
+  "author": "Benjamin Hitimana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjaminhiti/Bank-operations/issues"
+  },
+  "homepage": "https://github.com/benjaminhiti/Bank-operations#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
